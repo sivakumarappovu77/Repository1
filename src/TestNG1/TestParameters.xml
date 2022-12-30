@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM  "https://testng.org/testng-1.0.dtd">
+<suite name="Paramsuite">
+  <parameter name="param2" value="siva.gf@gmail.com ,svgk.ns"></parameter>
+   <test name="paramtest">
+         <classes>
+            <class name="paramclass" value="paramclass"/>
+         </classes>
+    </test>
+</suite>

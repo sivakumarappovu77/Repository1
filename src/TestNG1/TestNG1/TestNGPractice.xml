@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suit1">
+<test name="test1">
+<classes>
+<class name="TestNG1.TestNG1.TestNGPracticePageTest"/>
+</classes>
+</test>
+</suite>
